@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class P1_1 {
-	static int N = 20;
+	static int N = 30;
 
 	public static void main(String[] args) {
 		
